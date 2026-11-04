@@ -1,6 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="147.60000000000002" height="42" viewBox="0 0 147.60000000000002 42" role="img" aria-label="Instagram">
-<rect x="1" y="1" width="145.60000000000002" height="40" rx="11" fill="#223C5F" stroke="#506C91"/>
-<rect x="9" y="9" width="24" height="24" rx="6" fill="#E4DCC5"/>
-<text x="21" y="25" text-anchor="middle" font-size="11" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#1D2E4A">IG</text>
-<text x="42" y="26" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#F2EBDC">Instagram</text>
-<path d="m128.60000000000002 17 5 4-5 4" stroke="#E4DCC5" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="44" viewBox="0 0 172 44" role="img" aria-label="Instagram">
+<title>Instagram</title>
+<rect x="1" y="1" width="170" height="42" rx="10" fill="#1D2E4A" stroke="#56759C" stroke-width="1.5"/>
+<svg x="14" y="9" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#F1ECDC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+            <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
+            <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
+          </svg>
+<text x="47" y="28" fill="#F1ECDC" font-family="Arial,Helvetica,sans-serif" font-size="15.5" font-weight="700">Instagram</text>
+<path d="M153 18l5 4-5 4" stroke="#CAB985" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+</svg>

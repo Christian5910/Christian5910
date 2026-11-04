@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="133" height="50" viewBox="0 0 133 50" role="img" aria-label="Windows">
+<title>Windows</title>
+<rect x="1" y="1" width="131" height="48" rx="11" fill="#F1ECDC" stroke="#B9B5AA" stroke-width="1.5"/>
+<svg x="14" y="9" width="32" height="32" viewBox="0 0 128 128">
+              <path fill="#0078d4" d="M67.328 67.331h60.669V128H67.328zm-67.325 0h60.669V128H.003zM67.328 0h60.669v60.669H67.328zM.003 0h60.669v60.669H.003z"></path>
+            </svg>
+<text x="55" y="31" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#1D2E4A">Windows</text>
+</svg>

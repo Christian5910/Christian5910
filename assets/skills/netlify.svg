@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="116" height="42" viewBox="0 0 116 42" role="img" aria-label="Netlify">
-<rect x="1" y="1" width="114" height="40" rx="11" fill="#223C5F" stroke="#506C91"/>
-<rect x="9" y="9" width="24" height="24" rx="6" fill="#E4DCC5"/>
-<text x="21" y="25" text-anchor="middle" font-size="11" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#1D2E4A">NL</text>
-<text x="42" y="26" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#F2EBDC">Netlify</text>
-<path d="m97 17 5 4-5 4" stroke="#E4DCC5" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="133" height="50" viewBox="0 0 133 50" role="img" aria-label="Netlify">
+<title>Netlify</title>
+<rect x="1" y="1" width="131" height="48" rx="11" fill="#F1ECDC" stroke="#B9B5AA" stroke-width="1.5"/>
+<svg x="14" y="9" width="32" height="32" viewBox="0 0 128 128"><path d="M80.46 82.605h-8.777l-.734-.733V61.326c0-3.656-1.436-6.489-5.844-6.588-2.269-.06-4.864 0-7.638.11l-.416.425v26.589l-.733.733H47.54l-.733-.733V46.764l.733-.733h19.753c7.677 0 13.899 6.22 13.899 13.898v21.943l-.733.733Z" fill="#014847"/><path d="M58.942 119.902v-26.33l.733-.734h8.797l.733.733v26.331l-.733.733h-8.796zm0-84.838V8.734L59.675 8h8.797l.733.733v26.331l-.733.733h-8.796zm68.335 34.385H92.169l-.733-.733V59.92l.733-.733h35.108l.733.733v8.797zm-91.436 0H.733L0 68.716V59.92l.733-.733h35.108l.733.733v8.797zm-8.49-35.633v-1.209l6.034-6.033h1.208l9.223 9.223v6.39l-.852.852h-6.39zm7.242 68.235h-1.208l-6.033-6.033v-1.209l9.223-9.222h6.39l.851.851v6.39z" fill="#05bdba"/></svg>
+<text x="55" y="31" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#1D2E4A">Netlify</text>
+</svg>

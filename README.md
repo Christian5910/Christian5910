@@ -1,17 +1,16 @@
-<!-- Perfil pessoal / Christian5910
-Todo o material visual essencial está hospedado neste repositório.
-Ícones vetoriais autorais/recriados, sem scripts ou CSS externos (GitHub sanitiza CSS em README).
-O gráfico reflete a linguagem principal de cada repositório público; não equivale ao tempo de programação.
--->
+<!-- Perfil pessoal / Christian5910. Ícones originais extraídos das páginas habilidades.html e contato.html do portfólio.
+O gatinho SVG é o original fornecido pelo autor, com cores para os temas claro e escuro.
+Estatísticas: linguagem principal de cada repositório público, não tempo de programação. -->
 <div align="center">
 
-<h1>Christian Oliveira <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/mascot/cat-dark.svg"><img src="./assets/mascot/cat.svg" alt="Gatinho" width="74" height="47"></picture></h1>
+<h1>Olá, sou o Christian <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/mascot/cat-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/mascot/cat.svg"><img src="./assets/mascot/cat.svg" alt="Gatinho original do portfólio" width="74" height="48"></picture></h1>
 
 <strong>Designer &amp; Desenvolvedor Full Stack</strong>
 
 <p>Gosto de transformar ideias em experiências digitais: um pouco de design,<br>um pouco de código e uma boa dose de curiosidade.</p>
 
-<a href="https://chris-speccy.netlify.app"><img src="./assets/buttons/portfolio.svg" alt="Visitar portfólio" ></a>
+<a href="https://chris-speccy.netlify.app"><img src="./assets/buttons/portfolio.svg" alt="Visitar portfólio"></a>
+<a href="https://github.com/Christian5910"><img src="./assets/buttons/github.svg" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/christian-oliveira-rodrigues-speccy"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" ></a>
 <a href="mailto:christianoliveira5910@gmail.com"><img src="./assets/buttons/email.svg" alt="E-mail" ></a>
 <a href="https://www.instagram.com/chris_speccy/"><img src="./assets/buttons/instagram.svg" alt="Instagram" ></a>
@@ -115,6 +114,7 @@ Sou um desenvolvedor que gosta de trabalhar no **projeto inteiro**, da lógica a
   <p><img src="./assets/skills/git.svg" alt="Git" height="36">
 <img src="./assets/skills/github.svg" alt="GitHub" height="36">
 <img src="./assets/skills/vscode.svg" alt="VS Code" height="36">
+<img src="./assets/skills/windows.svg" alt="Windows" height="36">
 <img src="./assets/skills/android-studio.svg" alt="Android Studio" height="36">
 <img src="./assets/skills/netlify.svg" alt="Netlify" height="36"></p>
 </div>

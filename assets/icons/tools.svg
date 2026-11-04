@@ -1,2 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" role="img" aria-label="tools">
-<g fill="none" stroke="#4D83A9" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><path d="m14 6 4 4M12 8l-8 8a3 3 0 0 0 4 4l8-8M17 3a4 4 0 0 0 4 5l-5 5-5-5 5-5a4 4 0 0 0 1 0Z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" role="img" aria-label="Habilidades" viewBox="0 0 24 24" fill="none" stroke="#4D83A9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
