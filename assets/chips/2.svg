@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="42" viewBox="0 0 110 42" role="img" aria-label="IgoON">
+<rect x="1" y="1" width="108" height="40" rx="11" fill="#E4DCC5" stroke="#C7BB98"/>
+<rect x="9" y="9" width="24" height="24" rx="6" fill="#2C4268"/>
+<text x="21" y="25" text-anchor="middle" font-size="11" font-family="Arial,Helvetica,sans-serif" font-weight="700" fill="#E4DCC5">囲</text>
+<text x="42" y="26" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#1D2E4A">IgoON</text>
+<path d="m91 17 5 4-5 4" stroke="#2C4268" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>

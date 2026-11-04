@@ -63,23 +63,44 @@ def fetch_repos():
 
 def render(theme, n, languages):
     c = PALETTES[theme]
-    rows = ""
+    dark = theme == "dark"
+    ink = "#F7F1E6" if dark else "#1D2E4A"
+    soft = "#C0D0E0" if dark else "#5F6671"
+    bg = "#18283E" if dark else "#F1ECDC"
+    border = "#516784" if dark else "#C7BB98"
+    track = "#354A66" if dark else "#D4D8D4"
+    shades = {
+        "bar": "#8DBCEB" if dark else "#2C4268",
+        "bar2": "#75A8CE" if dark else "#507EA6",
+        "bar3": "#CEAD70" if dark else "#AA844B",
+        "bar4": "#A6B2C5" if dark else "#79818D",
+    }
+    rows = []
+    labels = []
     for i, (name, count, color_key) in enumerate(languages):
-        y = 73 + i * 39
-        bar_width = round(276 * count / n, 2)
-        rows += (f'<text x="415" y="{y}" fill="{c["ink"]}" font-size="19" font-family="Arial,sans-serif">{escape(name)}</text>\n'
-                 f'<rect x="548" y="{y-15}" width="276" height="16" rx="8" fill="{c["soft"]}" opacity=".35"/>\n'
-                 f'<rect x="548" y="{y-15}" width="{bar_width}" height="16" rx="8" fill="{c[color_key]}"/>\n'
-                 f'<text x="851" y="{y}" font-size="18" text-anchor="end" fill="{c["muted"]}" font-family="Arial,sans-serif">{count} <tspan font-size="13">repos</tspan></text>\n')
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="920" height="245" viewBox="0 0 920 245" role="img" aria-label="Estatísticas dos repositórios públicos de Christian Oliveira">
-<rect x="1" y="1" width="918" height="243" rx="15" fill="{c['bg']}" stroke="{c['stroke']}" stroke-width="2"/>
-<path d="M383 27V216" stroke="{c['stroke']}" stroke-width="1"/>
-<text x="32" y="39" fill="{c['muted']}" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">GITHUB / VISÃO GERAL</text>
-<text x="29" y="161" fill="{c['ink']}" font-family="Georgia,serif" font-weight="700" font-size="115">{n}</text>
-<text x="33" y="194" fill="{c['ink']}" font-family="Arial,sans-serif" font-weight="700" font-size="20">repositórios públicos</text>
-<text x="33" y="221" fill="{c['muted']}" font-family="Arial,sans-serif" font-size="14">Dados públicos da conta</text>
-<text x="415" y="39" fill="{c['muted']}" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">LINGUAGEM PRINCIPAL POR REPOSITÓRIO</text>
-{rows}</svg>'''
+        y = 104 + i * 49
+        width = max(0, min(210, 210 * count / n))
+        rows.append(
+            f'<text x="405" y="{y}" font-size="21" fill="{ink}" font-family="Arial,sans-serif">{escape(name)}</text>'
+            f'<rect x="555" y="{y-17}" width="214" height="19" rx="9.5" fill="{track}"/>'
+            f'<rect x="555" y="{y-17}" width="{width:.2f}" height="19" rx="9.5" fill="{shades[color_key]}"/>'
+            f'<text x="798" y="{y}" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="{ink}">{count}</text>'
+            f'<text x="824" y="{y}" font-family="Arial,sans-serif" font-size="14" fill="{soft}">repos</text>'
+        )
+        labels.append(f"{name}: {count}")
+    desc = escape(f"{n} repositórios públicos. " + ", ".join(labels))
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="960" height="305" viewBox="0 0 960 305" role="img" aria-labelledby="title desc">
+<title id="title">Estatísticas públicas do GitHub de Christian5910</title><desc id="desc">{desc}</desc>
+<rect x="2" y="2" width="956" height="301" rx="17" fill="{bg}" stroke="{border}" stroke-width="2"/>
+<path d="M376 24V281" stroke="{border}" stroke-width="1.5"/>
+<text x="34" y="43" font-family="Arial,sans-serif" font-size="17" letter-spacing="1.3" font-weight="700" fill="{soft}">GITHUB / VISÃO GERAL</text>
+<text x="35" y="181" font-family="Georgia,serif" font-size="100" font-weight="700" fill="{ink}">{n}</text>
+<text x="36" y="220" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="{ink}">repositórios públicos</text>
+<text x="36" y="260" font-family="Arial,sans-serif" font-size="16" fill="{soft}">Código, design e experimentação</text>
+<text x="403" y="43" font-family="Arial,sans-serif" font-size="16" letter-spacing=".5" font-weight="700" fill="{soft}">LINGUAGEM PRINCIPAL</text>
+{''.join(rows)}
+</svg>'''
+
 
 def main():
     repos = fetch_repos()

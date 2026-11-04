@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="107" viewBox="0 0 165 106.5" role="img" aria-label="Gato preto espiando, com orelhas grandes, como no desenho enviado">
+<defs><mask id="cat"><rect width="165" height="107" fill="white"/>
+<g fill="black">
+ <ellipse cx="62" cy="72" rx="9.5" ry="10.5"/><ellipse cx="109" cy="72" rx="9.5" ry="10.5"/>
+ <ellipse cx="65" cy="66" rx="3.5" ry="4"/><ellipse cx="110" cy="67" rx="3.5" ry="4"/>
+ <path d="M79 87 Q87 81 95 87Q87 91 79 87Z"/>
+ <path d="M71 31Q84 25 97 31" stroke="black" stroke-width="2"/>
+</g></mask></defs>
+<g fill="#1D2E4A" mask="url(#cat)">
+ <path d="M35 0C30 7 28 25 28.5 37C27 45 24 55 21 64C18 73 16 78 18 83C14 85 10 88 8 94L0 94V95L9 96L10 98L1 99L1 100L9 101L1 101L1 102L14 103L24 106H40L42 103L53 102L68 100L69 99L44 100L42 97H124L126 100L144 103L160 101L161 100L153 98L165 95V94L157 94C158 90 157 86 154 84C150 80 143 79 135 80C130 81 125 85 123 91C122 86 127 82 131 79C133 75 130 68 128 62C125 58 125 55 126 50C127 42 132 32 134 19C136 12 135 10 133 9C125 9 111 19 103 25L98 30C90 28 81 27 72 28C66 30 64 28 60 25C54 16 43 1 38 0Z"/>
+ <path d="M18 83C28 80 38 84 44 90L65 94H124C127 85 141 81 151 85C155 86 157 90 157 95H124V97H43L40 92C32 85 22 85 16 89Z"/>
+ <path d="M22 90C10 86 5 93 8 98L15 101 24 102 25 96ZM143 86C155 85 160 90 156 98L145 101 137 96Z"/>
+</g>
+<g fill="none" stroke="#1D2E4A" stroke-linecap="round">
+ <path d="M45 82C61 87 66 90 71 92M126 83C111 88 106 90 98 92" stroke-width="1.8"/>
+ <path d="M44 84 69 89M126 84 102 89" stroke-width="1"/>
+</g></svg>
