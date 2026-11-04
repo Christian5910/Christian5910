@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="264" viewBox="0 0 640 264" role="img" aria-label="04 / CURRÍCULO GUARD">
+<rect width="640" height="264" rx="18" fill="#233044"/>
+<path d="M18 240h604M18 24h604" stroke="#EFF1F4" stroke-width="1" opacity=".17"/>
+<circle cx="569" cy="52" r="108" fill="#9FAFC5" opacity=".13"/>
+<circle cx="569" cy="52" r="77" fill="none" stroke="#EFF1F4" opacity=".17"/>
+<text x="35" y="47" fill="#EFF1F4" font-family="Arial,sans-serif" font-size="16" letter-spacing="2.6" font-weight="700">04 / CURRÍCULO GUARD</text>
+
+<path d="M30 65H285" stroke="#AFC1D2" opacity=".5"/>
+<text x="33" y="125" fill="#EFF1F4" font-family="Georgia,serif" font-size="53" font-weight="700">Currículo</text>
+<text x="33" y="174" fill="#EFF1F4" font-family="Georgia,serif" font-size="50">Guard.</text>
+<text x="34" y="208" fill="#C7D1DC" font-family="Arial,sans-serif" font-size="19">Inspeção com revisão humana.</text>
+<g transform="translate(397 63)">
+<rect x="22" y="18" width="132" height="155" rx="10" fill="#EDEEEA"/>
+<path d="M49 56h78M49 76h78M49 96h54M49 115h70" stroke="#B9C3CF" stroke-width="7" stroke-linecap="round"/>
+<path d="M138 82l47 17v29c0 28-16 44-47 59-31-15-47-31-47-59V99z" fill="#2C4268" stroke="#E4DCC5" stroke-width="4"/>
+<path d="M117 134l14 14 26-31" stroke="#F1ECDC" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g><text x="34" y="247" fill="#CED6E4" font-size="13.5" font-family="Arial,sans-serif" letter-spacing="1.5">PYTHON  /  PDF  /  SEGURANÇA</text></svg>

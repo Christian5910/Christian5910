@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="264" viewBox="0 0 640 264" role="img" aria-label="02 / MAMORU NOTEPAD">
+<rect width="640" height="264" rx="18" fill="#E8DDC4"/>
+<path d="M18 240h604M18 24h604" stroke="#263951" stroke-width="1" opacity=".17"/>
+<circle cx="569" cy="52" r="108" fill="#D4B471" opacity=".13"/>
+<circle cx="569" cy="52" r="77" fill="none" stroke="#263951" opacity=".17"/>
+<text x="35" y="47" fill="#263951" font-family="Arial,sans-serif" font-size="16" letter-spacing="2.6" font-weight="700">02 / MAMORU NOTEPAD</text>
+
+<path d="M30 65H285" stroke="#65778D" opacity=".6"/>
+<text x="33" y="121" fill="#1D2E4A" font-family="Georgia,serif" font-weight="700" font-size="48">Mamoru</text>
+<text x="34" y="167" fill="#2C4268" font-family="Georgia,serif" font-size="46">Notepad.</text>
+<text x="34" y="206" fill="#4A4740" font-family="Arial,sans-serif" font-size="19">Ideias salvas, sem distrações.</text>
+<g transform="translate(402 49) rotate(8 100 100)">
+<rect x="18" y="12" width="156" height="173" rx="11" fill="#C7BB98"/>
+<rect x="10" y="4" width="156" height="173" rx="11" fill="#FCF7EA" stroke="#2C4268" stroke-width="2"/>
+<path d="M42 15v148" stroke="#C7BB98" stroke-width="1"/>
+<text x="60" y="65" fill="#2C4268" font-size="43" font-weight="700" font-family="monospace">#</text>
+<path d="M60 93h84M60 110h68M60 127h79M60 144h51" stroke="#8B9CAD" stroke-width="5" stroke-linecap="round"/>
+<circle cx="29" cy="38" r="4" fill="#2C4268"/><circle cx="29" cy="65" r="4" fill="#2C4268"/><circle cx="29" cy="92" r="4" fill="#2C4268"/>
+</g><text x="34" y="247" fill="#2C4268" font-size="13.5" font-family="Arial,sans-serif" letter-spacing="1.5">MARKDOWN  /  OFFLINE-FIRST  /  OPEN SOURCE</text></svg>

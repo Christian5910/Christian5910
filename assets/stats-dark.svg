@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="245" viewBox="0 0 920 245" role="img" aria-label="Estatísticas dos repositórios públicos de Christian Oliveira">
+<rect x="1" y="1" width="918" height="243" rx="15" fill="#18263A" stroke="#43536C" stroke-width="2"/>
+<path d="M383 27V216" stroke="#43536C" stroke-width="1"/>
+<text x="32" y="39" fill="#BEC9D5" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">GITHUB / VISÃO GERAL</text>
+<text x="29" y="161" fill="#F1ECDC" font-family="Georgia,serif" font-weight="700" font-size="115">31</text>
+<text x="33" y="194" fill="#F1ECDC" font-family="Arial,sans-serif" font-weight="700" font-size="20">repositórios públicos</text>
+<text x="33" y="221" fill="#BEC9D5" font-family="Arial,sans-serif" font-size="14">Dados públicos da conta</text>
+<text x="415" y="39" fill="#BEC9D5" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">LINGUAGEM PRINCIPAL POR REPOSITÓRIO</text>
+<text x="415" y="73" fill="#F1ECDC" font-size="19" font-family="Arial,sans-serif">JavaScript</text>
+<rect x="548" y="58" width="276" height="16" rx="8" fill="#63728B" opacity=".35"/>
+<rect x="548" y="58" width="142.4516129032258" height="16" rx="8" fill="#91B8EA"/>
+<text x="851" y="73" font-size="18" text-anchor="end" fill="#BEC9D5" font-family="Arial,sans-serif">16 <tspan font-size="13">repos</tspan></text>
+<text x="415" y="112" fill="#F1ECDC" font-size="19" font-family="Arial,sans-serif">HTML</text>
+<rect x="548" y="97" width="276" height="16" rx="8" fill="#63728B" opacity=".35"/>
+<rect x="548" y="97" width="71.2258064516129" height="16" rx="8" fill="#6B96BB"/>
+<text x="851" y="112" font-size="18" text-anchor="end" fill="#BEC9D5" font-family="Arial,sans-serif">8 <tspan font-size="13">repos</tspan></text>
+<text x="415" y="151" fill="#F1ECDC" font-size="19" font-family="Arial,sans-serif">Python</text>
+<rect x="548" y="136" width="276" height="16" rx="8" fill="#63728B" opacity=".35"/>
+<rect x="548" y="136" width="35.61290322580645" height="16" rx="8" fill="#C1A476"/>
+<text x="851" y="151" font-size="18" text-anchor="end" fill="#BEC9D5" font-family="Arial,sans-serif">4 <tspan font-size="13">repos</tspan></text>
+<text x="415" y="190" fill="#F1ECDC" font-size="19" font-family="Arial,sans-serif">Outras</text>
+<rect x="548" y="175" width="276" height="16" rx="8" fill="#63728B" opacity=".35"/>
+<rect x="548" y="175" width="26.70967741935484" height="16" rx="8" fill="#9098A4"/>
+<text x="851" y="190" font-size="18" text-anchor="end" fill="#BEC9D5" font-family="Arial,sans-serif">3 <tspan font-size="13">repos</tspan></text>
+</svg>

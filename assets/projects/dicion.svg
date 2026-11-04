@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="264" viewBox="0 0 640 264" role="img" aria-label="03 / DICION">
+<rect width="640" height="264" rx="18" fill="#132D37"/>
+<path d="M18 240h604M18 24h604" stroke="#EDF3E9" stroke-width="1" opacity=".17"/>
+<circle cx="569" cy="52" r="108" fill="#99B8A5" opacity=".13"/>
+<circle cx="569" cy="52" r="77" fill="none" stroke="#EDF3E9" opacity=".17"/>
+<text x="35" y="47" fill="#EDF3E9" font-family="Arial,sans-serif" font-size="16" letter-spacing="2.6" font-weight="700">03 / DICION</text>
+
+<path d="M30 65H285" stroke="#9FB5B1" opacity=".5"/>
+<text x="34" y="131" fill="#F3F1D9" font-family="Georgia,serif" font-size="64" font-weight="700">DiciON</text>
+<text x="35" y="173" fill="#C7DCD3" font-family="Arial,sans-serif" font-size="21">Palavras viram diversão.</text>
+<g transform="translate(348 90)">
+<rect x="0" y="0" rx="8" width="62" height="59" fill="#D8B46B" stroke="#F3F1D9" stroke-opacity=".18"/><text x="31" y="41" fill="#1D2E4A" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700">D</text><rect x="71" y="0" rx="8" width="62" height="59" fill="#41635B" stroke="#F3F1D9" stroke-opacity=".18"/><text x="102" y="41" fill="#F3F1D9" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700">I</text><rect x="142" y="0" rx="8" width="62" height="59" fill="#41635B" stroke="#F3F1D9" stroke-opacity=".18"/><text x="173" y="41" fill="#F3F1D9" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700">C</text><rect x="0" y="69" rx="8" width="62" height="59" fill="#D8B46B" stroke="#F3F1D9" stroke-opacity=".18"/><text x="31" y="110" fill="#1D2E4A" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700">I</text><rect x="71" y="69" rx="8" width="62" height="59" fill="#41635B" stroke="#F3F1D9" stroke-opacity=".18"/><text x="102" y="110" fill="#F3F1D9" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700">O</text><rect x="142" y="69" rx="8" width="62" height="59" fill="#D8B46B" stroke="#F3F1D9" stroke-opacity=".18"/><text x="173" y="110" fill="#1D2E4A" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700">N</text>
+</g><text x="34" y="247" fill="#D2E0D8" font-size="13.5" font-family="Arial,sans-serif" letter-spacing="1.5">VOCABULÁRIO  /  GAME  /  PWA</text></svg>
