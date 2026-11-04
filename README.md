@@ -1,136 +1,217 @@
 <!--
-  README de perfil • Christian5910
-  Referências: maurodesouza/profile-readme-generator e exemplos de GitHub Profile README.
-  As capas e as estatísticas SVG são armazenadas neste repositório.
-  O gráfico mostra a linguagem principal de cada repositório público, não bytes de código.
+README de perfil • Christian5910
+Estrutura simplificada para evitar sobreposição no GitHub Profile README.
+Usa SVGs locais para projetos e estatísticas.
 -->
 
 <div align="center">
 
-<h1>Olá! Eu sou o Christian 👋</h1>
+<h1>Christian Oliveira</h1>
 
-<p><b>Designer &amp; Desenvolvedor Full Stack</b> · 🎨 Interfaces com personalidade · 💻 Código com propósito</p>
+<p><b>Designer &amp; Desenvolvedor Full Stack</b></p>
 
-<p>Crio experiências digitais, ferramentas e jogos que combinam <b>design, programação e curiosidade</b>.<br>Gosto de entender cada detalhe de um projeto — da estrutura à experiência de quem vai usá-lo.</p>
+<p>
+Interfaces, aplicações web, ferramentas educacionais e jogos.<br>
+Projetos com foco em clareza, identidade visual e experiência de uso.
+</p>
 
-<a href="https://chris-speccy.netlify.app">
-  <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-244268?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio">
-</a>
-<a href="https://www.linkedin.com/in/christian-oliveira-rodrigues-speccy">
-  <img src="https://img.shields.io/badge/LINKEDIN-244268?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:christianoliveira5910@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-244268?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-</a>
-<a href="https://www.instagram.com/chris_speccy/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-244268?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+<table>
+  <tr>
+    <td align="center"><a href="https://chris-speccy.netlify.app"><b>Portfólio</b></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/christian-oliveira-rodrigues-speccy"><b>LinkedIn</b></a></td>
+    <td align="center"><a href="mailto:christianoliveira5910@gmail.com"><b>E-mail</b></a></td>
+    <td align="center"><a href="https://www.instagram.com/chris_speccy/"><b>Instagram</b></a></td>
+  </tr>
+</table>
 
-<sub>📍 Belo Horizonte, MG &nbsp;·&nbsp; 🐝 Criatividade + tecnologia &nbsp;·&nbsp; 🌱 Sempre aprendendo</sub>
+<sub>Belo Horizonte, MG · design, desenvolvimento e estudo contínuo</sub>
 
 </div>
 
 ---
 
-### 🧩 Um pouco sobre mim
+## 01 / Sobre mim
 
-- 🎨 **Design + desenvolvimento:** gosto de transformar ideias em interfaces acessíveis, bonitas e funcionais.
-- 🌸 **Educação e japonês:** estudo o idioma e desenvolvo ferramentas de aprendizagem, como o **Kana no Michi**.
-- 🎮 **Jogos e experimentos:** adoro recriar jogos clássicos, testar ideias e desenvolver aplicações que funcionem offline.
-- 🎻 **Além do código:** música, cultura japonesa e projetos criativos também fazem parte da minha rotina.
+Sou um desenvolvedor e designer que gosta de construir projetos completos, combinando estrutura técnica com atenção aos detalhes visuais.
 
-### 🚀 Projetos que vale conhecer
+Tenho interesse especial por:
+
+- interfaces bem resolvidas;
+- aplicações web e PWAs;
+- jogos e experimentos interativos;
+- educação e ferramentas de aprendizagem;
+- cultura e língua japonesa.
+
+Também gosto de trabalhar em projetos com identidade própria, em que o visual e a funcionalidade evoluem juntos.
+
+---
+
+## 02 / Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Christian5910/Kana-no-Michi_ENGINE"><img src="./assets/projects/kana.svg" alt="Arte do Kana no Michi, com cartões de hiragana" width="100%"></a>
-      <br><b><a href="https://github.com/Christian5910/Kana-no-Michi_ENGINE">Kana no Michi · Engine</a></b>
-      <br><sub>Motor de exercícios de hiragana e katakana para aprender japonês de forma interativa.</sub>
-      <br><br><a href="https://kana-no-michi-engine.netlify.app/">↗ Abrir aplicativo</a>
+      <a href="https://github.com/Christian5910/Kana-no-Michi_ENGINE">
+        <img src="./assets/projects/kana.svg" alt="Kana no Michi Engine" width="100%">
+      </a>
+      <br>
+      <b><a href="https://github.com/Christian5910/Kana-no-Michi_ENGINE">Kana no Michi · Engine</a></b>
+      <br>
+      <sub>Motor de exercícios de hiragana e katakana para aprendizagem interativa de japonês.</sub>
+      <br><br>
+      <a href="https://kana-no-michi-engine.netlify.app/">Abrir aplicação</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Christian5910/Mamoru-Notepad"><img src="./assets/projects/mamoru.svg" alt="Arte do Mamoru Notepad, com um editor Markdown em papel" width="100%"></a>
-      <br><b><a href="https://github.com/Christian5910/Mamoru-Notepad">Mamoru Notepad</a></b>
-      <br><sub>Editor Markdown open source e offline-first, com foco na escrita e em arquivos locais.</sub>
-      <br><br><a href="https://github.com/Christian5910/Mamoru-Notepad">↗ Ver repositório</a>
+      <a href="https://github.com/Christian5910/Mamoru-Notepad">
+        <img src="./assets/projects/mamoru.svg" alt="Mamoru Notepad" width="100%">
+      </a>
+      <br>
+      <b><a href="https://github.com/Christian5910/Mamoru-Notepad">Mamoru Notepad</a></b>
+      <br>
+      <sub>Editor Markdown open source e offline-first, com foco em escrita e arquivos locais.</sub>
+      <br><br>
+      <a href="https://github.com/Christian5910/Mamoru-Notepad">Ver repositório</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Christian5910/DiciON"><img src="./assets/projects/dicion.svg" alt="Arte do DiciON, com letras distribuídas em um tabuleiro" width="100%"></a>
-      <br><b><a href="https://github.com/Christian5910/DiciON">DiciON</a></b>
-      <br><sub>Um jogo de palavras feito para exercitar o vocabulário e se divertir no navegador.</sub>
-      <br><br><a href="https://dicion.netlify.app/">↗ Jogar DiciON</a>
+      <a href="https://github.com/Christian5910/DiciON">
+        <img src="./assets/projects/dicion.svg" alt="DiciON" width="100%">
+      </a>
+      <br>
+      <b><a href="https://github.com/Christian5910/DiciON">DiciON</a></b>
+      <br>
+      <sub>Jogo de palavras voltado ao vocabulário, pensado para funcionar bem no navegador.</sub>
+      <br><br>
+      <a href="https://dicion.netlify.app/">Abrir projeto</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Christian5910/Curriculo-Guard"><img src="./assets/projects/guard.svg" alt="Arte do Currículo Guard, com um documento e um escudo" width="100%"></a>
-      <br><b><a href="https://github.com/Christian5910/Curriculo-Guard">Currículo Guard</a></b>
-      <br><sub>Inspeção de PDFs, identificação de sinais de injeção de prompt e revisão humana auditável.</sub>
-      <br><br><a href="https://github.com/Christian5910/Curriculo-Guard">↗ Conhecer o projeto</a>
+      <a href="https://github.com/Christian5910/Curriculo-Guard">
+        <img src="./assets/projects/guard.svg" alt="Currículo Guard" width="100%">
+      </a>
+      <br>
+      <b><a href="https://github.com/Christian5910/Curriculo-Guard">Currículo Guard</a></b>
+      <br>
+      <sub>Inspeção de PDFs com foco em sinais de injeção de prompt e revisão humana auditável.</sub>
+      <br><br>
+      <a href="https://github.com/Christian5910/Curriculo-Guard">Ver repositório</a>
     </td>
   </tr>
 </table>
 
-### 🎮 Mais criações
+---
 
-| 🎲 Jogos e experiências | 🧰 Ferramentas e design |
-| :--- | :--- |
-| [**HanafudaON**](https://github.com/Christian5910/HanafudaON) — 10 modos de jogo | [**Designer Lab**](https://github.com/Christian5910/Design_Lab) — experiências de design |
-| [**IgoON**](https://github.com/Christian5910/IgoON) — jogo de Go | [**ASCII Braille**](https://github.com/Christian5910/ASCII-art) — conversor de imagens |
-| [**ShogiON**](https://github.com/Christian5910/ShogiON) — xadrez japonês | [**PWA Model**](https://github.com/Christian5910/PWA-Model) — base offline-first |
-| [**ChezzON**](https://github.com/Christian5910/ChezzON) — xadrez | [**Cat Girl Clock**](https://github.com/Christian5910/CatGirlClock) — relógio Android |
-| [**PaciON**](https://github.com/Christian5910/PaciON) — jogos de paciência | [**Interface Quality**](https://github.com/Christian5910/interface-quality) — estudos de interface |
+## 03 / Outras criações
+
+<table>
+  <tr>
+    <th align="left">Jogos</th>
+    <th align="left">Ferramentas e estudos</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/Christian5910/HanafudaON"><b>HanafudaON</b></a><br>
+      <sub>10 modos de Hanafuda em um só projeto</sub><br><br>
+
+      <a href="https://github.com/Christian5910/IgoON"><b>IgoON</b></a><br>
+      <sub>jogo de Go para navegador</sub><br><br>
+
+      <a href="https://github.com/Christian5910/ShogiON"><b>ShogiON</b></a><br>
+      <sub>xadrez japonês</sub><br><br>
+
+      <a href="https://github.com/Christian5910/ChezzON"><b>ChezzON</b></a><br>
+      <sub>xadrez com identidade visual própria</sub><br><br>
+
+      <a href="https://github.com/Christian5910/PaciON"><b>PaciON</b></a><br>
+      <sub>coleção de jogos de paciência</sub>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/Christian5910/Design_Lab"><b>Design Lab</b></a><br>
+      <sub>estudos e experiências de design</sub><br><br>
+
+      <a href="https://github.com/Christian5910/ASCII-art"><b>ASCII Braille</b></a><br>
+      <sub>conversor de imagens para arte em Braille</sub><br><br>
+
+      <a href="https://github.com/Christian5910/PWA-Model"><b>PWA Model</b></a><br>
+      <sub>base offline-first para aplicações web</sub><br><br>
+
+      <a href="https://github.com/Christian5910/CatGirlClock"><b>Cat Girl Clock</b></a><br>
+      <sub>relógio Android com pixel art</sub><br><br>
+
+      <a href="https://github.com/Christian5910/interface-quality"><b>Interface Quality</b></a><br>
+      <sub>estudos de interface e qualidade visual</sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <a href="https://github.com/Christian5910?tab=repositories"><b>↗ Explorar todos os meus repositórios</b></a>
+  <a href="https://github.com/Christian5910?tab=repositories"><b>Explorar todos os repositórios</b></a>
 </div>
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+## 04 / Tecnologias
 
-<div align="center">
-  <p><b>Web & interfaces</b></p>
-  <img src="https://img.shields.io/badge/HTML5-1D2E4A?style=flat-square&logo=html5&logoColor=F1ECDC" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1D2E4A?style=flat-square&logo=css3&logoColor=F1ECDC" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-1D2E4A?style=flat-square&logo=javascript&logoColor=F1ECDC" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-1D2E4A?style=flat-square&logo=typescript&logoColor=F1ECDC" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Bootstrap-1D2E4A?style=flat-square&logo=bootstrap&logoColor=F1ECDC" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/PWA-1D2E4A?style=flat-square&logo=pwa&logoColor=F1ECDC" alt="PWA">
-  <p><b>Aplicações & dados</b></p>
-  <img src="https://img.shields.io/badge/Python-2C4268?style=flat-square&logo=python&logoColor=F1ECDC" alt="Python">
-  <img src="https://img.shields.io/badge/Java-2C4268?style=flat-square&logo=openjdk&logoColor=F1ECDC" alt="Java">
-  <img src="https://img.shields.io/badge/MySQL-2C4268?style=flat-square&logo=mysql&logoColor=F1ECDC" alt="MySQL">
-  <img src="https://img.shields.io/badge/Supabase-2C4268?style=flat-square&logo=supabase&logoColor=F1ECDC" alt="Supabase">
-  <p><b>Fluxo de trabalho</b></p>
-  <img src="https://img.shields.io/badge/Git-4A4740?style=flat-square&logo=git&logoColor=F1ECDC" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-4A4740?style=flat-square&logo=github&logoColor=F1ECDC" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-4A4740?style=flat-square&logo=visualstudiocode&logoColor=F1ECDC" alt="VS Code">
-  <img src="https://img.shields.io/badge/Android_Studio-4A4740?style=flat-square&logo=androidstudio&logoColor=F1ECDC" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Netlify-4A4740?style=flat-square&logo=netlify&logoColor=F1ECDC" alt="Netlify">
-</div>
+<table>
+  <tr>
+    <th align="left">Web e interface</th>
+    <th align="left">Aplicações e dados</th>
+    <th align="left">Ferramentas</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <code>HTML5</code><br>
+      <code>CSS3</code><br>
+      <code>JavaScript</code><br>
+      <code>TypeScript</code><br>
+      <code>Bootstrap</code><br>
+      <code>PWA</code>
+    </td>
+    <td valign="top">
+      <code>Python</code><br>
+      <code>Java</code><br>
+      <code>MySQL</code><br>
+      <code>Supabase</code>
+    </td>
+    <td valign="top">
+      <code>Git</code><br>
+      <code>GitHub</code><br>
+      <code>VS Code</code><br>
+      <code>Android Studio</code><br>
+      <code>Netlify</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub em números
+## 05 / GitHub em números
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
-    <img src="./assets/stats-light.svg" width="92%" alt="Resumo dos repositórios públicos e das linguagens principais: JavaScript, HTML, Python e outras">
+    <img
+      src="./assets/stats-light.svg"
+      width="92%"
+      alt="Resumo dos repositórios públicos e das linguagens principais"
+    >
   </picture>
-  <br>
-  <sub>Gráfico hospedado no próprio repositório · Atualização automática semanal · Linguagens classificadas pela linguagem principal de cada repositório público, não pelo tempo de uso.</sub>
+</div>
+
+<div align="center">
+  <sub>
+    Gráfico hospedado no próprio repositório · atualização automática semanal ·
+    linguagens classificadas pela linguagem principal de cada repositório público.
+  </sub>
 </div>
 
 ---
 
 <div align="center">
 
-**Obrigado pela visita!** 🐝
+<b>Obrigado pela visita.</b> 🐝
 
-<sub>Feito com curiosidade, atenção aos detalhes e um pouco de mel. · またね :3</sub>
+<sub>Feito com atenção aos detalhes, estudo constante e identidade própria.</sub>
 
 </div>
