@@ -85,7 +85,7 @@ def render(theme, n, languages):
             f'<rect x="555" y="{y-17}" width="214" height="19" rx="9.5" fill="{track}"/>'
             f'<rect x="555" y="{y-17}" width="{width:.2f}" height="19" rx="9.5" fill="{shades[color_key]}"/>'
             f'<text x="798" y="{y}" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="{ink}">{count}</text>'
-            f'<text x="824" y="{y}" font-family="Arial,sans-serif" font-size="14" fill="{soft}">repos</text>'
+            f'<text x="854" y="{y}" font-family="Arial,sans-serif" font-size="14" fill="{soft}">repos</text>'
         )
         labels.append(f"{name}: {count}")
     desc = escape(f"{n} repositórios públicos. " + ", ".join(labels))

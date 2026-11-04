@@ -11,20 +11,20 @@
 <rect x="555" y="87" width="214" height="19" rx="9.5" fill="#D4D8D4"/>
 <rect x="555" y="87" width="108.39" height="19" rx="9.5" fill="#2C4268"/>
 <text x="798" y="104" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#1D2E4A">16</text>
-<text x="824" y="104" font-family="Arial,sans-serif" font-size="14" fill="#5F6671">repos</text>
+<text x="854" y="104" font-family="Arial,sans-serif" font-size="14" fill="#5F6671">repos</text>
 <text x="405" y="153" font-size="21" fill="#1D2E4A" font-family="Arial,sans-serif">HTML</text>
 <rect x="555" y="136" width="214" height="19" rx="9.5" fill="#D4D8D4"/>
 <rect x="555" y="136" width="54.19" height="19" rx="9.5" fill="#507EA6"/>
 <text x="798" y="153" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#1D2E4A">8</text>
-<text x="824" y="153" font-family="Arial,sans-serif" font-size="14" fill="#5F6671">repos</text>
+<text x="854" y="153" font-family="Arial,sans-serif" font-size="14" fill="#5F6671">repos</text>
 <text x="405" y="202" font-size="21" fill="#1D2E4A" font-family="Arial,sans-serif">Python</text>
 <rect x="555" y="185" width="214" height="19" rx="9.5" fill="#D4D8D4"/>
 <rect x="555" y="185" width="27.10" height="19" rx="9.5" fill="#AA844B"/>
 <text x="798" y="202" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#1D2E4A">4</text>
-<text x="824" y="202" font-family="Arial,sans-serif" font-size="14" fill="#5F6671">repos</text>
+<text x="854" y="202" font-family="Arial,sans-serif" font-size="14" fill="#5F6671">repos</text>
 <text x="405" y="251" font-size="21" fill="#1D2E4A" font-family="Arial,sans-serif">Outras</text>
 <rect x="555" y="234" width="214" height="19" rx="9.5" fill="#D4D8D4"/>
 <rect x="555" y="234" width="20.32" height="19" rx="9.5" fill="#79818D"/>
 <text x="798" y="251" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#1D2E4A">3</text>
-<text x="824" y="251" font-family="Arial,sans-serif" font-size="14" fill="#5F6671">repos</text>
+<text x="854" y="251" font-family="Arial,sans-serif" font-size="14" fill="#5F6671">repos</text>
 </svg>
