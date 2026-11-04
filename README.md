@@ -1,108 +1,145 @@
+<!-- Perfil GitHub • Identidade visual inspirada no Kana no Michi -->
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header.svg">
+    <img src="./assets/header.svg" alt="Christian Oliveira — designer e desenvolvedor Full Stack. Design, código e experimentação." width="100%">
+  </picture>
 
-<img src="./assets/header.svg" alt="Christian Oliveira — Designer & Full Stack Developer" width="100%">
+  <br>
 
-<br>
+  <strong>Transformo ideias em experiências digitais — da primeira linha de código ao último detalhe da interface.</strong>
 
-<a href="https://chris-speccy.netlify.app">
-  <img src="https://img.shields.io/badge/Portfólio-1D2E4A?style=for-the-badge&logo=netlify&logoColor=E4DCC5" alt="Portfólio">
-</a>
-<a href="https://www.linkedin.com/in/christian-oliveira-rodrigues-speccy">
-  <img src="https://img.shields.io/badge/LinkedIn-1D2E4A?style=for-the-badge&logo=linkedin&logoColor=E4DCC5" alt="LinkedIn">
-</a>
-<a href="mailto:christianoliveira5910@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-1D2E4A?style=for-the-badge&logo=gmail&logoColor=E4DCC5" alt="E-mail">
-</a>
-<a href="https://www.instagram.com/chris_speccy/">
-  <img src="https://img.shields.io/badge/Instagram-1D2E4A?style=for-the-badge&logo=instagram&logoColor=E4DCC5" alt="Instagram">
-</a>
+  <br><br>
 
-<br><br>
+  <a href="https://chris-speccy.netlify.app"><img src="https://img.shields.io/badge/Portfólio-1D2E4A?style=for-the-badge&logo=netlify&logoColor=E4DCC5" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/christian-oliveira-rodrigues-speccy"><img src="https://img.shields.io/badge/LinkedIn-1D2E4A?style=for-the-badge&logo=linkedin&logoColor=E4DCC5" alt="LinkedIn"></a>
+  <a href="mailto:christianoliveira5910@gmail.com"><img src="https://img.shields.io/badge/E--mail-1D2E4A?style=for-the-badge&logo=gmail&logoColor=E4DCC5" alt="E-mail"></a>
+  <a href="https://www.instagram.com/chris_speccy/"><img src="https://img.shields.io/badge/Instagram-1D2E4A?style=for-the-badge&logo=instagram&logoColor=E4DCC5" alt="Instagram"></a>
 
-<sub>Belo Horizonte · MG · GMT-3 · <b>Disponível para projetos</b></sub>
-
+  <br><br>
+  <sub>📍 Belo Horizonte, MG &nbsp;·&nbsp; 🎨 Design & desenvolvimento &nbsp;·&nbsp; 🌱 Sempre aprendendo</sub>
 </div>
 
 ---
 
-## 蜂 ・ Sobre mim
+## 01 · Sobre mim `自己紹介`
 
-Sou **Christian Oliveira**, Designer e Desenvolvedor **Full Stack**. Minha trajetória se consolidou na prática — construindo projetos reais com olhar atento aos detalhes, evolução técnica constante e compromisso com a qualidade em cada entrega.
+Olá! Sou **Christian Oliveira**, designer e desenvolvedor **Full Stack**. Gosto de construir projetos de ponta a ponta, unindo a lógica do desenvolvimento ao cuidado com a experiência de quem vai usar o produto.
 
-Gosto de assumir projetos **de ponta a ponta**, integrando a arquitetura do back-end aos ajustes finos de interface no front-end. Para mim, a criatividade é essencial, mas precisa estar construída sobre uma base sólida de **usabilidade**.
+Meu trabalho passa por **interfaces, aplicações web, PWAs, ferramentas e experimentos interativos**. Tenho um carinho especial por projetos educacionais, pela cultura japonesa e por tudo o que permite aprender algo novo enquanto se cria.
 
-> *"Um projeto não termina quando chega a um fim definitivo — termina quando alcança estabilidade e cumpre com excelência o propósito para o qual foi criado."*
+> **Meu princípio:** uma boa interface precisa ser bonita, mas principalmente clara, acessível e útil.
+
+<table>
+  <tr>
+    <td width="33%" align="center"><b>✦ Design</b><br><sub>Identidade visual, UI e UX</sub></td>
+    <td width="33%" align="center"><b>⌘ Desenvolvimento</b><br><sub>Web, aplicações e ferramentas</sub></td>
+    <td width="33%" align="center"><b>文 Aprendizado</b><br><sub>Educação, idiomas e cultura</sub></td>
+  </tr>
+</table>
+
+## 02 · Projetos em destaque `制作物`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌸 <a href="https://github.com/Christian5910/Kana-no-Michi_ENGINE">Kana no Michi · Engine</a></h3>
+      <p>Motor independente de exercícios de <b>hiragana e katakana</b>, parte do universo Kana no Michi. Aprender japonês com interatividade e atenção ao visual.</p>
+      <p><a href="https://kana-no-michi-engine.netlify.app/">↗ Experimentar</a> · <code>JavaScript</code> <code>Educação</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/Christian5910/Mamoru-Notepad">Mamoru Notepad</a></h3>
+      <p>Editor de <b>Markdown</b> open source, com proposta offline-first, armazenamento local e uma interface pensada para quem escreve e organiza ideias.</p>
+      <p><a href="https://github.com/Christian5910/Mamoru-Notepad">↗ Ver repositório</a> · <code>JavaScript</code> <code>Markdown</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔠 <a href="https://github.com/Christian5910/DiciON">DiciON</a></h3>
+      <p>Jogo de adivinhação de palavras para exercitar o vocabulário. Um projeto que mistura <b>jogos, linguagem e desenvolvimento web</b>.</p>
+      <p><a href="https://dicion.netlify.app/">↗ Jogar</a> · <code>JavaScript</code> <code>PWA</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Christian5910/Curriculo-Guard">Currículo Guard</a></h3>
+      <p>Ferramenta em <b>Python</b> para inspecionar currículos em PDF, sinalizar possíveis injeções de prompt e apoiar uma revisão humana auditável.</p>
+      <p><a href="https://github.com/Christian5910/Curriculo-Guard">↗ Ver repositório</a> · <code>Python</code> <code>Segurança</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/Christian5910/Design_Lab">Designer Lab</a></h3>
+      <p>Espaço para explorar conceitos de design e criar interfaces com mais intenção, do estudo de cores à composição visual.</p>
+      <p><a href="https://designer-lab.netlify.app/">↗ Visitar</a> · <code>HTML</code> <code>CSS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐈 <a href="https://github.com/Christian5910/CatGirlClock">Cat Girl Clock</a></h3>
+      <p>Relógio para Android com estética <b>pixel art</b>, widgets personalizáveis e suporte ao modo de carregamento.</p>
+      <p><a href="https://github.com/Christian5910/CatGirlClock">↗ Ver repositório</a> · <code>Java</code> <code>Android</code></p>
+    </td>
+  </tr>
+</table>
+
+### 🎴 Jogos e experimentos
+
+Além dos projetos principais, gosto de desenvolver jogos clássicos e experiências que funcionam no navegador:
+
+- **[HanafudaON](https://github.com/Christian5910/HanafudaON)** — dez modos de Hanafuda reunidos em um só projeto.
+- **[IgoON](https://github.com/Christian5910/IgoON)** · **[ShogiON](https://github.com/Christian5910/ShogiON)** · **[ChezzON](https://github.com/Christian5910/ChezzON)** — jogos de estratégia no estilo ON!.
+- **[PaciON](https://github.com/Christian5910/PaciON)** — coleção de jogos de paciência.
+- **[ASCII Braille](https://github.com/Christian5910/ASCII-art)** — imagens transformadas em arte de caracteres Braille, direto no navegador.
+- **[PWA Model](https://github.com/Christian5910/PWA-Model)** — modelo de PWA offline-first, instalável e sem frameworks.
+
+<p align="center"><b>☞ <a href="https://github.com/Christian5910?tab=repositories">Explorar todos os repositórios</a> · <a href="https://chris-speccy.netlify.app">Visitar meu portfólio</a></b></p>
 
 ---
 
-## 技 ・ Tecnologias
+## 03 · Tecnologias `技術`
 
 <div align="center">
+  <p><b>Front-end & experiência</b></p>
+  <img src="https://img.shields.io/badge/HTML5-1D2E4A?style=flat-square&logo=html5&logoColor=E4DCC5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1D2E4A?style=flat-square&logo=css3&logoColor=E4DCC5" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-1D2E4A?style=flat-square&logo=javascript&logoColor=E4DCC5" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-1D2E4A?style=flat-square&logo=typescript&logoColor=E4DCC5" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Bootstrap-1D2E4A?style=flat-square&logo=bootstrap&logoColor=E4DCC5" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/PWA-1D2E4A?style=flat-square&logo=pwa&logoColor=E4DCC5" alt="PWA">
 
-**Front-end**
+  <p><b>Back-end & dados</b></p>
+  <img src="https://img.shields.io/badge/Python-1D2E4A?style=flat-square&logo=python&logoColor=E4DCC5" alt="Python">
+  <img src="https://img.shields.io/badge/Java-1D2E4A?style=flat-square&logo=openjdk&logoColor=E4DCC5" alt="Java">
+  <img src="https://img.shields.io/badge/MySQL-1D2E4A?style=flat-square&logo=mysql&logoColor=E4DCC5" alt="MySQL">
+  <img src="https://img.shields.io/badge/Supabase-1D2E4A?style=flat-square&logo=supabase&logoColor=E4DCC5" alt="Supabase">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA">
-
-**Back-end & Dados**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-
-**Ferramentas & Deploy**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
-
+  <p><b>Ferramentas & publicação</b></p>
+  <img src="https://img.shields.io/badge/Git-1D2E4A?style=flat-square&logo=git&logoColor=E4DCC5" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-1D2E4A?style=flat-square&logo=github&logoColor=E4DCC5" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-1D2E4A?style=flat-square&logo=visualstudiocode&logoColor=E4DCC5" alt="VS Code">
+  <img src="https://img.shields.io/badge/Android_Studio-1D2E4A?style=flat-square&logo=androidstudio&logoColor=E4DCC5" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Netlify-1D2E4A?style=flat-square&logo=netlify&logoColor=E4DCC5" alt="Netlify">
 </div>
 
 ---
 
-## 作 ・ Projetos em destaque
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| 🐝 [**Portfólio Pessoal**](https://chris-speccy.netlify.app) | Centralização de projetos com interface minimalista, temas claro/escuro e PWA. | `HTML/CSS/JS` · `PWA` |
-| 🤖 [**Luna AI**](https://ialuna.netlify.app) | Assistente virtual com personalidade própria, sobre múltiplos modelos de IA gratuitos. | `JS` · `API` · `AI` |
-| 🎨 [**Arte em Cores**](https://arteemcores.netlify.app) | E-commerce de produtos artesanais com catálogo dinâmico e painel administrativo. | `Supabase` · `E-commerce` |
-| 🧪 [**Designer Lab**](https://designer-lab.netlify.app) | Plataforma educativa com simuladores práticos de tipografia, cor e composição. | `HTML/CSS/JS` · `PWA` |
-| 🐈 [**Cat Girl Clock**](https://github.com/Christian5910/CatGirlClock) | Relógio Android nativo em Java com widgets interativos e Pixel Art. | `Java` · `Android` |
-| 点 [**ASCII Braile**](https://ascii-braile.netlify.app) | Conversor de imagens para arte ASCII com caracteres Braille, 4 algoritmos de dithering. | `TypeScript` · `PWA` |
-
-> Mais em **[chris-speccy.netlify.app](https://chris-speccy.netlify.app)**
-
----
-
-## 統 ・ Estatísticas
+## 04 · GitHub em números `記録`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Christian5910&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=E4DCC5&title_color=1D2E4A&icon_color=2C4268&text_color=4A4740&border_radius=8"
-     alt="GitHub Stats" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian5910&layout=compact&hide_border=true&bg_color=E4DCC5&title_color=1D2E4A&text_color=4A4740&langs_count=8&border_radius=8"
-     alt="Top Languages" height="165">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Christian5910&hide_border=true&background=E4DCC5&stroke=1D2E4A&ring=2C4268&fire=2C4268&currStreakNum=1A1A1D&sideNums=1A1A1D&currStreakLabel=2C4268&sideLabels=4A4740&dates=4A4740&border_radius=8"
-     alt="GitHub Streak">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Christian5910&show_icons=true&include_all_commits=true&hide_border=true&bg_color=E4DCC5&title_color=1D2E4A&icon_color=2C4268&text_color=4A4740&border_radius=8" alt="Resumo de atividades no GitHub" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian5910&layout=compact&hide_border=true&bg_color=E4DCC5&title_color=1D2E4A&text_color=4A4740&langs_count=8&border_radius=8" alt="Linguagens presentes nos repositórios" height="165">
 </div>
 
+<details>
+  <summary><b>📈 Ver histórico de contribuições</b></summary>
+  <br>
+  <div align="center"><img src="https://streak-stats.demolab.com?user=Christian5910&hide_border=true&background=E4DCC5&stroke=1D2E4A&ring=2C4268&fire=2C4268&currStreakNum=1A1A1D&sideNums=1A1A1D&currStreakLabel=2C4268&sideLabels=4A4740&dates=4A4740&border_radius=8" alt="Histórico de contribuições no GitHub"></div>
+</details>
+
+<sub>As estatísticas são geradas por serviços externos e podem ficar temporariamente indisponíveis.</sub>
+
 ---
 
 <div align="center">
-
-<sub>蜂 ・ feito com atenção, café e um pouco de mel 🐝</sub>
-
+  <sub><b>蜂 · HACHI</b> — feito com atenção aos detalhes, curiosidade e um pouco de mel 🐝</sub>
+  <br>
+  <sub>Obrigado pela visita! · またね :3</sub>
 </div>
