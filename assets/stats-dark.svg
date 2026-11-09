@@ -1,30 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="305" viewBox="0 0 960 305" role="img" aria-labelledby="title desc">
-<title id="title">Estatísticas públicas do GitHub de Christian5910</title><desc id="desc">31 repositórios públicos; linguagens por repositório: JavaScript 16, HTML 8, Python 4 e outras 3.</desc>
+<title id="title">Estatísticas públicas do GitHub de Christian5910</title><desc id="desc">33 repositórios públicos. JavaScript: 17, HTML: 8, Python: 5, Outras: 3</desc>
 <rect x="2" y="2" width="956" height="301" rx="17" fill="#18283E" stroke="#516784" stroke-width="2"/>
 <path d="M376 24V281" stroke="#516784" stroke-width="1.5"/>
 <text x="34" y="43" font-family="Arial,sans-serif" font-size="17" letter-spacing="1.3" font-weight="700" fill="#C0D0E0">GITHUB / VISÃO GERAL</text>
-<text x="35" y="181" font-family="Georgia,serif" font-size="100" font-weight="700" fill="#F7F1E6">31</text>
+<text x="35" y="181" font-family="Georgia,serif" font-size="100" font-weight="700" fill="#F7F1E6">33</text>
 <text x="36" y="220" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#F7F1E6">repositórios públicos</text>
 <text x="36" y="260" font-family="Arial,sans-serif" font-size="16" fill="#C0D0E0">Código, design e experimentação</text>
 <text x="403" y="43" font-family="Arial,sans-serif" font-size="16" letter-spacing=".5" font-weight="700" fill="#C0D0E0">LINGUAGEM PRINCIPAL</text>
-<text x="405" y="104" font-size="21" fill="#F7F1E6" font-family="Arial,sans-serif">JavaScript</text>
-<rect x="555" y="87" width="214" height="19" rx="9.5" fill="#354A66"/>
-<rect x="555" y="87" width="108.39" height="19" rx="9.5" fill="#8DBCEB"/>
-<text x="798" y="104" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#F7F1E6">16</text>
-<text x="854" y="104" font-family="Arial,sans-serif" font-size="14" fill="#C0D0E0">repos</text>
-<text x="405" y="153" font-size="21" fill="#F7F1E6" font-family="Arial,sans-serif">HTML</text>
-<rect x="555" y="136" width="214" height="19" rx="9.5" fill="#354A66"/>
-<rect x="555" y="136" width="54.19" height="19" rx="9.5" fill="#75A8CE"/>
-<text x="798" y="153" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#F7F1E6">8</text>
-<text x="854" y="153" font-family="Arial,sans-serif" font-size="14" fill="#C0D0E0">repos</text>
-<text x="405" y="202" font-size="21" fill="#F7F1E6" font-family="Arial,sans-serif">Python</text>
-<rect x="555" y="185" width="214" height="19" rx="9.5" fill="#354A66"/>
-<rect x="555" y="185" width="27.10" height="19" rx="9.5" fill="#CEAD70"/>
-<text x="798" y="202" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#F7F1E6">4</text>
-<text x="854" y="202" font-family="Arial,sans-serif" font-size="14" fill="#C0D0E0">repos</text>
-<text x="405" y="251" font-size="21" fill="#F7F1E6" font-family="Arial,sans-serif">Outras</text>
-<rect x="555" y="234" width="214" height="19" rx="9.5" fill="#354A66"/>
-<rect x="555" y="234" width="20.32" height="19" rx="9.5" fill="#A6B2C5"/>
-<text x="798" y="251" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#F7F1E6">3</text>
-<text x="854" y="251" font-family="Arial,sans-serif" font-size="14" fill="#C0D0E0">repos</text>
+<text x="405" y="104" font-size="21" fill="#F7F1E6" font-family="Arial,sans-serif">JavaScript</text><rect x="555" y="87" width="214" height="19" rx="9.5" fill="#354A66"/><rect x="555" y="87" width="108.18" height="19" rx="9.5" fill="#8DBCEB"/><text x="798" y="104" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#F7F1E6">17</text><text x="854" y="104" font-family="Arial,sans-serif" font-size="14" fill="#C0D0E0">repos</text><text x="405" y="153" font-size="21" fill="#F7F1E6" font-family="Arial,sans-serif">HTML</text><rect x="555" y="136" width="214" height="19" rx="9.5" fill="#354A66"/><rect x="555" y="136" width="50.91" height="19" rx="9.5" fill="#75A8CE"/><text x="798" y="153" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#F7F1E6">8</text><text x="854" y="153" font-family="Arial,sans-serif" font-size="14" fill="#C0D0E0">repos</text><text x="405" y="202" font-size="21" fill="#F7F1E6" font-family="Arial,sans-serif">Python</text><rect x="555" y="185" width="214" height="19" rx="9.5" fill="#354A66"/><rect x="555" y="185" width="31.82" height="19" rx="9.5" fill="#CEAD70"/><text x="798" y="202" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#F7F1E6">5</text><text x="854" y="202" font-family="Arial,sans-serif" font-size="14" fill="#C0D0E0">repos</text><text x="405" y="251" font-size="21" fill="#F7F1E6" font-family="Arial,sans-serif">Outras</text><rect x="555" y="234" width="214" height="19" rx="9.5" fill="#354A66"/><rect x="555" y="234" width="19.09" height="19" rx="9.5" fill="#A6B2C5"/><text x="798" y="251" font-family="Arial,sans-serif" font-weight="700" font-size="23" fill="#F7F1E6">3</text><text x="854" y="251" font-family="Arial,sans-serif" font-size="14" fill="#C0D0E0">repos</text>
 </svg>
